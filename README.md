@@ -75,5 +75,3 @@ Se desejar contribuir com melhorias ou novas funcionalidades, siga os passos:
 git checkout -b minha-alteracao
 - Faça suas alterações e submeta um Pull Request.
 
-
-me entregue tudo isso dentro de um readme.md por favor
